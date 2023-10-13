@@ -1,0 +1,31 @@
+.main{
+    /* border: 2px solid blue; */
+    width: 500px;
+    text-align: center;
+    margin-left: 520px;
+}
+.count{
+    border: 2px solid red;
+    width: 80px;
+    text-align: center;
+    margin-left: 220px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.btn{
+  height: 50px;
+  width: 100px;
+  margin-left: 30px;
+  border: 2px solid;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.h1{
+font-size: 60px;
+}
